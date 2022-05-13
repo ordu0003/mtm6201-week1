@@ -1,2 +1,2 @@
 # mtm6201-week1
-Week 1 repository for mrm6201030
+Week 1 repository for MTM6201030 -  Web II
